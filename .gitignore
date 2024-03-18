@@ -162,4 +162,3 @@ cython_debug/
 
 
 # Excluding the data points to be on github
-data/
